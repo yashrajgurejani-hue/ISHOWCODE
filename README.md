@@ -1,4 +1,4 @@
-# Real-Time Sign Language to Text and Voice
+# Real-Time Sign Language to Text 
 
 <!-- TODO: replace with a real screenshot or demo GIF (docs/demo.gif). This is the first thing people look at. -->
 ![Demo](docs/demo.gif)
@@ -7,7 +7,7 @@
 
 ## Problem Statement
 
-**#3: Sign language to text and voice, in real time** *(submitted by Princy)*
+**#3: Sign language to text in real time** *(submitted by Princy)*
 
 > Build a computer-vision webpage that reads hand gestures through an ordinary webcam and turns sign language into written text or spoken audio as it happens, closing the gap between signers and people who do not sign. The hard parts are tracking hands reliably, classifying movement rather than single frames, and keeping the whole loop fast enough to hold a conversation.
 
