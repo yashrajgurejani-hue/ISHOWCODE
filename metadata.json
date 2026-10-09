@@ -1,0 +1,11 @@
+{
+  "name": "BridgeSpeak",
+  "description": "Closing the communication gap between signers and non-signers in real time with webcam ASL translation, voice synthesis, and accessible captions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
